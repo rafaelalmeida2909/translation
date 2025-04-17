@@ -1,0 +1,43 @@
+Instruções para Tradução ao Espanhol Latino-Americano
+Contexto:
+Traduzir materiais do programa Girls Who Game (voltado principalmente para meninas, mas inclusivo para meninos), abrangendo estudantes do 3º ao 8º ano (8–14 anos). Os textos podem ser para tutores ou alunos, então adapte o tom conforme o público (formal para tutores, claro e motivacional para alunos).
+
+1. Linguagem Inclusiva
+Evitar gênero binário. Exemplos:
+
+Em vez de: "las niñas" → Usar: "los/las estudiantes", "quienes participan", "las y los jugadores".
+
+Em vez de: "todos" (masculino genérico) → Usar: "todas las personas", "el grupo".
+
+Se necessário, usar duplas (ej. "niñas y niños"), mas priorizar termos neutros ou coletivos ("participantes", "equipo").
+
+2. Espanhol Latino-Americano Neutro
+Variante-alvo: Mirar no espanhol mexicano padrão (por sua neutralidade), mas evitar regionalismos (ej. "chavo", "wey").
+
+Escalabilidade: Garantir que o texto seja compreensível em todos os países hispanofalantes. Exemplo:
+
+Evitar: "computadora" (mais usado na Argentina) ou "ordenador" (Espanha) → Prefira: "computadora" (mais comum na América Latina).
+
+3. Adaptação Cultural
+Sinalize qualquer conteúdo excessivamente centrado na cultura dos EUA (ej. referências a feriados como Thanksgiving, siglas locais não explicadas) para possível adaptação.
+
+Mantenha conceitos pedagógicos, mas explique siglas ou termos técnicos se necessário (ej. "STEM" → "ciencias, tecnología, ingeniería y matemáticas").
+
+4. Tom e Estilo
+Para tutores: Formalidade moderada, claro e direto (ej. "Como guiar a los estudiantes en...").
+
+Para alunos: Motivacional e acessível (ej. "¡Descubre cómo crear tu propio juego!").
+
+Evitar arcaísmos ou estruturas complexas. Priorize frases curtas e ativas.
+
+5. Formato e Consistência
+Conservar títulos, subtítulos e formatação do original.
+
+Usar itálico para termos em inglês sem equivalente direto (ej. "gameplay").
+
+Verificar a consistência de termos-chave (ej. "mentor" → "mentor/a" ou "guía").
+
+
+Traduza o seguinte texto para o espanhol latino-americano, seguindo as instruções acima. Mantenha o tom adequado para [tutores/alunos] e sinalize qualquer conteúdo que precise de adaptação cultural:  
+
+**[Texto original em inglês aqui]** 
