@@ -1,0 +1,3 @@
+Comparação qualitativa
+A tradução de LLMs preservou o título original do projeto (Girls Who Game)
+As traduções feitas por LLMs respeitaram o case original das palavras, diferente da tradução Humana
