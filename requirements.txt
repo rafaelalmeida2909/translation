@@ -1,11 +1,7 @@
-spacy==3.7.4
+spacy
 https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl
-nltk==3.8.1
-wordfreq==3.0.3
-scikit-learn==1.4.0
-pandas==2.2.0
-numpy==1.26.0  # Versão estável sem requisito de GCC
-matplotlib==3.8.0
-seaborn==0.13.0
-cython==0.29.36  # Versão compatível
-jupyter==1.0.0
+nltk
+wordfreq
+scikit-learn
+pandas
+seaborn
