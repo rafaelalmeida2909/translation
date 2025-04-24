@@ -27,7 +27,7 @@ python -m venv .venv
 ```
 Or (Linux)
 ```bash
-.venv\bin\activate
+. .venv\bin\activate
 ```
 
 4. Install dependencies:
@@ -54,7 +54,7 @@ translation/
 ```
 Or (Linux)
 ```bash
-.venv\bin\activate
+. .venv\bin\activate
 ```
 
 2. Open the Jupyter notebook:
