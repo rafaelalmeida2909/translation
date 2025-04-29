@@ -1,10 +1,10 @@
 File,Human_Word_Count,Model,LLM_Word_Count,Difference
-DEL3783_GWG_TransformingLivesBrochure.txt,814,claude3.5,760,54
-DEL3783_GWG_TransformingLivesBrochure.txt,814,gemini2.0,819,5
-DEL3783_GWG_TransformingLivesBrochure.txt,814,gpt4o,793,21
 DEL3682_RecruitmentFlyer_02.txt,326,claude3.5,303,23
 DEL3682_RecruitmentFlyer_02.txt,326,gemini2.0,307,19
 DEL3682_RecruitmentFlyer_02.txt,326,gpt4o,331,5
+DEL3783_GWG_TransformingLivesBrochure.txt,814,claude3.5,760,54
+DEL3783_GWG_TransformingLivesBrochure.txt,814,gemini2.0,819,5
+DEL3783_GWG_TransformingLivesBrochure.txt,814,gpt4o,793,21
 Girls Who Game Sister Clubs.txt,377,claude3.5,353,24
 Girls Who Game Sister Clubs.txt,377,gemini2.0,370,7
 Girls Who Game Sister Clubs.txt,377,gpt4o,375,2

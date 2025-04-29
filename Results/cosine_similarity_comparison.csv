@@ -1,0 +1,13 @@
+File,Model,Cosine_Similarity
+DEL3682_RecruitmentFlyer_02.txt,claude3.5,0.7983369892357125
+DEL3682_RecruitmentFlyer_02.txt,gemini2.0,0.816741192818589
+DEL3682_RecruitmentFlyer_02.txt,gpt4o,0.8250515705577497
+DEL3783_GWG_TransformingLivesBrochure.txt,claude3.5,0.8899019902405803
+DEL3783_GWG_TransformingLivesBrochure.txt,gemini2.0,0.8927741629173522
+DEL3783_GWG_TransformingLivesBrochure.txt,gpt4o,0.8779012437981019
+Girls Who Game Sister Clubs.txt,claude3.5,0.8447549795501207
+Girls Who Game Sister Clubs.txt,gemini2.0,0.8398304526938475
+Girls Who Game Sister Clubs.txt,gpt4o,0.8564521941118906
+GWG Mentor Program FA23.txt,claude3.5,0.8634152315683872
+GWG Mentor Program FA23.txt,gemini2.0,0.8672179728503213
+GWG Mentor Program FA23.txt,gpt4o,0.8652489467366998

@@ -1,0 +1,13 @@
+File,Model,TER_Score
+DEL3682_RecruitmentFlyer_02.txt,claude3.5,0.46932515337423314
+DEL3682_RecruitmentFlyer_02.txt,gemini2.0,0.46319018404907975
+DEL3682_RecruitmentFlyer_02.txt,gpt4o,0.50920245398773
+DEL3783_GWG_TransformingLivesBrochure.txt,claude3.5,0.4226044226044226
+DEL3783_GWG_TransformingLivesBrochure.txt,gemini2.0,0.4877149877149877
+DEL3783_GWG_TransformingLivesBrochure.txt,gpt4o,0.4926289926289926
+Girls Who Game Sister Clubs.txt,claude3.5,0.47214854111405835
+Girls Who Game Sister Clubs.txt,gemini2.0,0.40583554376657827
+Girls Who Game Sister Clubs.txt,gpt4o,0.47214854111405835
+GWG Mentor Program FA23.txt,claude3.5,0.4581005586592179
+GWG Mentor Program FA23.txt,gemini2.0,0.3994413407821229
+GWG Mentor Program FA23.txt,gpt4o,0.4748603351955307
